@@ -8,3 +8,5 @@ REPORT ztest_demo.
 *This is first comment
 
 data(name) = 'feature'.
+
+data(name1) = 'feature2'.
