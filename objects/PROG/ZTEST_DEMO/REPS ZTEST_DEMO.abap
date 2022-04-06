@@ -8,3 +8,5 @@ REPORT ztest_demo.
 *This is first comment
 
 *This is second commit
+
+data(name) = 'feature'.
