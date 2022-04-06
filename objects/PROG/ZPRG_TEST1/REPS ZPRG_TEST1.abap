@@ -9,6 +9,6 @@ REPORT zprg_test1.
 
 *This is second commit
 
-*This comment is for feature branch
+*This comment is for feature2 branch
 
 *This is maintenance branch
