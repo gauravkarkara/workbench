@@ -9,4 +9,4 @@ REPORT ztest_demo.
 
 data(name) = 'feature'.
 
-data(name1) = 'feature2'.
+data(name1) = 'maintenance2'.
