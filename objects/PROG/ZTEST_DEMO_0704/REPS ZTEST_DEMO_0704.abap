@@ -8,3 +8,5 @@ REPORT ztest_demo_0704.
 data(name) = 'Initial commit'.
 
 data(name1) = 'This is feature'.
+
+data(name2) = 'This is maintenance'.
